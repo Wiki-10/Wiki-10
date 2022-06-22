@@ -79,3 +79,13 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   
 </details>
+
+
+<details>
+  <summary> Resume</summary>
+
+![CV1024_1](https://user-images.githubusercontent.com/77585783/175075746-d8a557f1-a9e4-4292-acbc-b2dff515dd87.jpg)
+  
+ </details>
+
+
